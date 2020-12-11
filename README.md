@@ -55,4 +55,6 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.instagram.com/programemeing/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/soham-shah-a97b5917b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sohamshah456@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://medium.com/@sohamshah456" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
+
 </p>
