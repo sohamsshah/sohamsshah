@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsshah&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sohamsshah/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamsshah&show_icons=true&locale=en&theme=radical" alt="sohamsshah" /></p>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
