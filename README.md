@@ -1,33 +1,16 @@
-<!--### Hi there 👋
-
-
-**sohamsshah/sohamsshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on a React app
-- 🌱 I’m currently learning html5, css3 javascript, React
-- 👯 I’m looking to collaborate on web based projects
-- 🤔 I’m looking for help with react
-- 💬 Ask me about html5,css3, javascript, React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h2> Hey there! I'm sohamsshah. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development, Cloud and DS.
+- 📎  &nbsp; Contributing actively to [Hub](https://github.com/activeloopai/Hub), a Deep Learning Python library. 
 - 🔎 &nbsp; Researching in the field of Deep Learning and Computer Science.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Software developer.
 - 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Artificial Intelligence.
-- ✍️ &nbsp; Love writing Blogs on Medium, and learning Product dev and UI/UX for applications. 
+- ✍️ &nbsp; Love writing Blogs on Medium, learning Product dev and UI/UX for applications. 
 - ✨ &nbsp; Out of work, find me reading Cosmology and Philosophy, making funny Programming Memes or singing.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
 
