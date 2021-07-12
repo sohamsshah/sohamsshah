@@ -5,7 +5,6 @@
 
 - 🔭 &nbsp; I’m currently learning Web Development, Cloud and DS.
 - ⭐ &nbsp; Looking for contributions to [JavaScriptONLY](https://github.com/sohamsshah/JavaScriptONLY) and maintaining [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts) with an aim to make Open Source Cakewalk for everyone and impact the developer community by assisting them.
-- 📎  &nbsp; Contributing actively to [Hub](https://github.com/activeloopai/Hub), a Deep Learning Python library and [caMicroscope](https://github.com/camicroscope/caMicroscope) which is a Digital Pathology. 
 - 🔎 &nbsp; Researching in the field of Deep Learning and Computer Science.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
@@ -17,8 +16,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Java   
-- 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | React.js | Node.js
+- 💻 &nbsp; Python | Javascript | Java 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | React.js | Node.js | Next.js
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Tkinter | Matplotlib | Hub
 - ☁ &nbsp; Google Cloud Platform | Netlify | Docker
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Anaconda | Git
