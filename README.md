@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development, Cloud and DS.
-- ⭐ &nbsp; Looking for contributions to [JavaScriptONLY](https://github.com/sohamsshah/JavaScriptONLY) and maintaining [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts) with an aim to make Open Source Cakewalk for everyone and impact the developer community by assisting them.
+- ⭐ &nbsp; Looking for contributions to [JavaScriptONLY](https://github.com/sohamsshah/JavaScriptONLY) with an aim to make Open Source Cakewalk for everyone and impact the developer community by assisting them.
 - 🔎 &nbsp; Researching in the field of Deep Learning and Computer Science.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
